@@ -25,7 +25,7 @@
 	"dependencies": {
 		"cross-fetch": "^3.0.2",
 		"hyntax": "^1.1.9",
-		"infobox-parser": "mattvick/infobox-parser#bugfix/date-of-birth-destructure-non-iterable"
+		"infobox-parser": "mattvick/infobox-parser"
 	},
 	"devDependencies": {
 		"@pollyjs/adapter-node-http": "^2.5.0",

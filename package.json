@@ -25,7 +25,7 @@
 	"dependencies": {
 		"cross-fetch": "^3.0.2",
 		"hyntax": "^1.1.9",
-		"infobox-parser": "mattvick/infobox-parser#master"
+		"infobox-parser": "github:mattvick/infobox-parser#master"
 	},
 	"devDependencies": {
 		"@pollyjs/adapter-node-http": "^2.5.0",
